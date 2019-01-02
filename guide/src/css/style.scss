@@ -34,6 +34,7 @@ $table-bg-color: #f1f1f1;
 
 /* GLOBAL
 -----------------------------------------------------------------*/
+/*
 html {
 	padding: 0;
 	margin: 0;
@@ -48,8 +49,29 @@ body {
 	line-height: rem( 24px );
 	background-color: #fff;
 }
+*/
 
-/* PAGE HEADER
+
+
+/* HELPERS
+-----------------------------------------------------------------*/
+.page-container {
+    
+    width: 100%;
+	min-height: rem( 520px );
+	margin: 0;
+	background-color: #fff;
+	padding: 0 rem( 15px ) rem( 15px );
+	@include box-sizing( "border-box" );
+	
+	//@extend html;
+	font-family: $default-font;
+	font-size: rem( $font-size );
+	color: $font-color;
+	line-height: rem( 24px );
+	background-color: #fff;
+	
+	/* PAGE HEADER
 -----------------------------------------------------------------*/
 header {
 
@@ -1233,17 +1255,6 @@ figure.right {
 	display: table;
 	text-align: left;
 }
-
-/* HELPERS
------------------------------------------------------------------*/
-.page-container {
-    
-    width: 100%;
-	min-height: rem( 520px );
-	margin: 0;
-	background-color: #fff;
-	padding: 0 rem( 15px ) rem( 15px );
-	@include box-sizing( "border-box" );
 
 }
 
