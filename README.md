@@ -4,7 +4,7 @@
 A HTML, CSS, and JavaScript framework for instructional designers at University of Wisconsin-Extension division of Continuing Education, Outreach &amp; E-Learning (UW-EX CEOEL).
 
 ### How To Use
-1. To start, download the [framework](https://github.com/oel-mediateam/droplets/archive/master.zip) (ZIP).
+1. To start, download the [framework](https://github.com/uwex-learning-tech/droplets/archive/master.zip) (ZIP).
 2. Unzip or extract the ZIP file when the download is completed.
 3. Open the `dist` directory.
 4. Upload all of the files and directories inside the `dist` directory to your LMS's file storage.
@@ -36,9 +36,9 @@ Knowledges of SASS and Compass are essential to write the CSS for this framework
 *Latest stable version is always recommended.*
 
 ### Bug Reporting and Questions
-If any bugs/glitches are found in this framework, please report them under the "**[Issues](https://github.com/oel-mediateam/droplets/issues)**" page on GitHub. When reporting a bug, please write the report as detailed and specifically as possible. Note the steps to reproduce the bug and include screen captures if possible.
+If any bugs/glitches are found in this framework, please report them under the "**[Issues](https://github.com/uwex-learning-tech/droplets/issues)**" page on GitHub. When reporting a bug, please write the report as detailed and specifically as possible. Note the steps to reproduce the bug and include screen captures if possible.
 
-For questions, please also post them under the "**[Issues](https://github.com/oel-mediateam/droplets/issues)**" page on GitHub.
+For questions, please also post them under the "**[Issues](https://github.com/uwex-learning-tech/droplets/issues)**" page on GitHub.
 
 ---
 #### Version Change Log

@@ -5,3 +5,4 @@ config.codekit
 # ingore SASS cache hidden directory
 .sass-cache
 **/.sass-cache
+dist/css/.DS_Store
